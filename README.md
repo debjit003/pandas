@@ -5,6 +5,8 @@
 
 -----------------
 
+@Debjit Roy
+
 # pandas: powerful Python data analysis toolkit
 
 | | |
